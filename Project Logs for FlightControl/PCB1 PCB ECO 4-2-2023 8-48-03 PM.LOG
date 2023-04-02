@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=LIPO_2S_7.4V Pin=F1-1
+Removed Pin From Net: NetName=LIPO_2S_7.4V Pin=F1-1
+Removed Pin From Net: NetName=NetD3_1 Pin=F1-2
+Removed Pin From Net: NetName=NetD3_1 Pin=F1-2
+Removed Pin From Net: NetName=LIPO_2S_7.4V Pin=F2-1
+Removed Pin From Net: NetName=LIPO_2S_7.4V Pin=F2-1
+Removed Pin From Net: NetName=NetD5_1 Pin=F2-2
+Removed Pin From Net: NetName=NetD5_1 Pin=F2-2
+Added Component: Designator=F1(FUSE SMD)
+Added Component: Designator=F2(FUSE SMD)
+Added Pin To Net: NetName=LIPO_2S_7.4V Pin=F1-1
+Added Pin To Net: NetName=NetD3_1 Pin=F1-2
+Added Pin To Net: NetName=LIPO_2S_7.4V Pin=F2-1
+Added Pin To Net: NetName=NetD5_1 Pin=F2-2
