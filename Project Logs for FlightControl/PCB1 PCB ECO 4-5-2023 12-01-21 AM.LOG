@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=P9-1
+Removed Pin From Net: NetName=LIPO_3S_11.4V Pin=P9-2
+Added Pin To Net: NetName=LIPO_3S_11.4V Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P9-2

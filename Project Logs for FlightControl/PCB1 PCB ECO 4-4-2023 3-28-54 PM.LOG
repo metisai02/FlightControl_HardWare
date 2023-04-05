@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=GND Pin=P9-1
+Removed Pin From Net: NetName=LIPO_3S_11.4V Pin=P9-2
+Removed Member From Class: ClassName=Power_Supply Member=C27
+Removed Member From Class: ClassName=UART_to_Micro_USB Member=C30
+Removed Member From Class: ClassName=MCU Member=R17
+Removed Member From Class: ClassName=MCU Member=R20
+Removed Member From Class: ClassName=Motor_Servo Member=R20
+Removed Member From Class: ClassName=Power_Supply Member=R20
+Added Pin To Net: NetName=LIPO_3S_11.4V Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Member To Class: ClassName=Power_Supply Member=Component ASM1 LM1117
+Added Member To Class: ClassName=Power_Supply Member=Component C12 Cap Non-Pol SMD
+Added Member To Class: ClassName=Power_Supply Member=Component C13 Cap Non-Pol SMD
+Added Member To Class: ClassName=Power_Supply Member=Component C14 Cap Non-Pol SMD
+Added Member To Class: ClassName=Power_Supply Member=Component C15 Cap Non-Pol SMD
+Added Member To Class: ClassName=Power_Supply Member=Component C16 Cap Non-Pol SMD
+Added Member To Class: ClassName=Power_Supply Member=Component C17 Cap Non-Pol SMD
+Added Member To Class: ClassName=Power_Supply Member=Component C18 Cap Non-Pol SMD
+Added Member To Class: ClassName=Power_Supply Member=Component C19 Cap Non-Pol SMD
+Added Member To Class: ClassName=Power_Supply Member=Component C22 Cap Pol SMD
+Added Member To Class: ClassName=Power_Supply Member=Component C23 Cap Pol SMD
+Added Member To Class: ClassName=UART_to_Micro_USB Member=Component C24 Cap Non-Pol SMD
+Added Member To Class: ClassName=UART_to_Micro_USB Member=Component C25 Cap Non-Pol SMD
+Added Member To Class: ClassName=Power_Supply Member=Component D3 LED SMD
+Added Member To Class: ClassName=Power_Supply Member=Component D5 D Schottky
+Added Member To Class: ClassName=Power_Supply Member=Component D6 D Schottky
+Added Member To Class: ClassName=Power_Supply Member=Component D7 D Schottky
+Added Member To Class: ClassName=UART_to_Micro_USB Member=Component D8 1N4148WS
+Added Member To Class: ClassName=UART_to_Micro_USB Member=Component D9 USBLC6-2SC6
+Added Member To Class: ClassName=UART_to_Micro_USB Member=Component D10 LED SMD
+Added Member To Class: ClassName=UART_to_Micro_USB Member=Component D11 LED SMD
+Added Member To Class: ClassName=Power_Supply Member=Component F1 Fuse
+Added Member To Class: ClassName=MCU Member=Component R3 RESISTOR SMD
+Added Member To Class: ClassName=MCU Member=Component R4 RESISTOR SMD
+Added Member To Class: ClassName=MCU Member=Component R5 RESISTOR SMD
+Added Member To Class: ClassName=MCU Member=Component R6 RESISTOR SMD
+Added Member To Class: ClassName=MCU Member=Component R7 RESISTOR SMD
+Added Member To Class: ClassName=MCU Member=Component R8 RESISTOR SMD
+Added Member To Class: ClassName=MCU Member=Component R9 RESISTOR SMD
+Added Member To Class: ClassName=Motor_Servo Member=Component R10 RESISTOR SMD
+Added Member To Class: ClassName=Motor_Servo Member=Component R11 RESISTOR SMD
+Added Member To Class: ClassName=Motor_Servo Member=Component R12 RESISTOR SMD
+Added Member To Class: ClassName=Motor_Servo Member=Component R13 RESISTOR SMD
+Added Member To Class: ClassName=Motor_Servo Member=Component R14 RESISTOR SMD
+Added Member To Class: ClassName=Motor_Servo Member=Component R15 RESISTOR SMD
+Added Member To Class: ClassName=Motor_Servo Member=Component R16 RESISTOR SMD
+Added Member To Class: ClassName=Power_Supply Member=Component R18 RESISTOR SMD
+Added Member To Class: ClassName=UART_to_Micro_USB Member=Component R19 RESISTOR SMD
