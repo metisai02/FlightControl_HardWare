@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=LIPO_2S_7.4V Pin=P9-1
-Removed Pin From Net: NetName=GND Pin=P9-2
-Added Pin To Net: NetName=GND Pin=P9-1
-Added Pin To Net: NetName=LIPO_2S_7.4V Pin=P9-2
-Added Room: Name=MCU
-Added Room: Name=Motor_Servo
-Added Room: Name=Power_Supply
-Added Room: Name=Sensor_Input
-Added Room: Name=UART_to_Micro_USB

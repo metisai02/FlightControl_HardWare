@@ -1,8 +1,0 @@
-Change Component Comment : Designator=F1 Old Comment=Fuse New Comment=F1A
-Change Component Comment : Designator=F2 Old Comment=Fuse New Comment=F1A
-Change component parameters: Designator = "F1" ("F1"); Footprint = "Fuse"; UniqueID = "\FZXUVEDB" ("\FZXUVEDB")
-Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
-Change component parameters: Designator = "F2" ("F2"); Footprint = "Fuse"; UniqueID = "\OBXZRTDJ" ("\OBXZRTDJ")
-Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"

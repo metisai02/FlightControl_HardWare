@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=SERVO_5V Pin=P11-1
-Removed Pin From Net: NetName=GND Pin=P11-2
-Added Pin To Net: NetName=GND Pin=P11-1
-Added Pin To Net: NetName=SERVO_5V Pin=P11-2
