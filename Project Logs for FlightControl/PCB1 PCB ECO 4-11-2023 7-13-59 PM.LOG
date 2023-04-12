@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=ASM1-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Member To Class: ClassName=Power_Supply Member=Component L1 3.3uH, 3.7A
+Added Member To Class: ClassName=Power_Supply Member=Component L2 3.3uH, 3.7A

@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=LM1117-3V3 NewDesignator=ASM2
+Change Component Designator: OldDesignator=LM1117-5V NewDesignator=ASM1
+Added Pin To Net: NetName=TXD Pin=P4-1
+Added Pin To Net: NetName=RXD Pin=P4-2
+Added Pin To Net: NetName=TXD Pin=U1-12
+Added Pin To Net: NetName=RXD Pin=U1-13
+Added Member To Class: ClassName=Power_Supply Member=Component ASM2 LM1117
+Added Member To Class: ClassName=MCU Member=Component U1 STM32F103C8T6
