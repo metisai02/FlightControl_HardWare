@@ -1,1 +1,7 @@
-Record=TopLevelDocument|FileName=Block_Diagram.SchDoc
+Record=TopLevelDocument|FileName=Block_Diagram.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Motor_Servo.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=power_Diagram.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Power_Supply.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=Sensor_Input.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Block_Diagram.SchDoc|FileName=UART_to_Micro_USB.SchDoc|SheetNumber= 
